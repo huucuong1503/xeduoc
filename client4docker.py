@@ -92,7 +92,6 @@ if __name__ == "__main__":
                         ), -1
                     )
                 kt=image
-                cv2.imwrite('C:/Users/Admin/PycharmProjects/pythonProject27/Resources/chuongngai.jpg',kt)
                 #..................................
                 '''width, height = 400, 250
                 pts1 = np.float32([[240, 158], [398, 158], [0, 258], [640, 258]])
